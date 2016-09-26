@@ -1,6 +1,6 @@
 # Local Polynomial Regression
 
-R code to produce a local polynomial regression from scratch. 
+R code to estimate a local polynomial regression model. Built from scratch, only depends on parallelization packages. 
 
 Example:
 
@@ -11,3 +11,4 @@ Example:
 - [ ] Proper documentation
 - [ ] Clean up code
 - [ ] Nicer plot
+- [ ] Throw out KernSmooth package (not needed)
